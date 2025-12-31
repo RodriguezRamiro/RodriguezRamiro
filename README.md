@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Ramiro Rodriguez
+Full-Stack Developer specializing in React, Flask, and real-time applications.
 
-I'm a Full-Stack JavaScript Developer based in the USA, focused on building clean, efficient, and user-friendly web applications.
+I build clean, efficient, and user-friendly web applications with a strong focus on frontend experience and backend reliability.
 
 ### 🧠 What I'm working with
 - JavaScript (ES6+)
@@ -34,3 +35,6 @@ linkedin.com/in/ramiro-rodriguez-3a287a328
 - Strengthening backend architecture
 
 If you're looking to collaborate or need a developer, please don't hesitate to reach out!
+
+Built by Ramiro Rodriguez © 2026
+RodriguezTech Studios
