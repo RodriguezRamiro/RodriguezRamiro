@@ -13,17 +13,36 @@ I build clean, efficient, and user-friendly web applications with a strong focus
 - Python / Flask
 
 ### 🚀 Featured Projects
-- 🛒 **ecommerce_app** – Full stack eCommerce application
-- ♠️ **fullstack_blackjack** – A casino-style Blackjack game in React
-- 🧪 **apitester** – API request testing tool
-- 🌦 **weatherapp** – Real-time weather dashboard
-- 🎵 **playlist-app** – Music data & playlist app
+
+- 🛒 **[ecommerce_app]
+- (https://github.com/RodriguezRamiro/ecommerce_app)** – Full stack eCommerce           application
+- Live demo: (https://ecommerce-app-seven-lilac.vercel.app/)
+
+-  💈 **Clips Grooming** – Barber shop landing page (UI/UX • Responsive Design)
+-  (https://github.com/RodriguezRamiro/clipsgrooming) Small Business Page
+-  Live demo: https://vercel.com/rodriguezramiros-projects/clipsgrooming
+
+- ♠️ **[fullstack_blackjack]
+- (https://github.com/RodriguezRamiro/fullstack_blackjack)** – Casino-style             Blackjack game in React
+- Live demo: https://fullstack-blackjack.vercel.app/
+
+- 🧪 **[apitester]
+- (https://github.com/RodriguezRamiro/apitester)** – API request testing tool
+- Live demo: (https://apitester-fawn.vercel.app/)
+
+- 🌦 **[weatherapp]
+- (https://github.com/rodriguezramiro/weatherapp)** – Real-time weather dashboard
+- Live demo: (https://weatherapp-ashy-five.vercel.app/)
+
+- 🎵 **[playlist-app]
+- (https://github.com/RodriguezRamiro/playlist-app)** – Music data & playlist app
+
 
 ### 🌍 My Website
 🔗 https://rodriguezcodesolutions.tech
 
 ### 🔗 LinkedIn
-linkedin.com/in/ramiro-rodriguez-3a287a328
+🔗 https://linkedin.com/in/ramiro-rodriguez-3a287a328
 
 ### 📸 Instagram
 🔗 https://www.instagram.com/software.map
