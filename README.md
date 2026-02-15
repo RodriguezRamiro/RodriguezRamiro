@@ -16,12 +16,13 @@ I specialize in React, Node.js, and Python/Flask, with a strong focus on busines
 
 ### 🚀 Featured Systems & Projects
 
-💈 **Clips Grooming** – Barber shop landing page (UI/UX • Responsive Design)
--  🧾 Service Booking & Payment Platform (In Progress)
-      A production-oriented booking system designed around real business                workflows.
-🔗 Repo | 🌐 Live Demo
-(https://github.com/RodriguezRamiro/clipsgrooming) Small Business Page
-Live demo: https://vercel.com/rodriguezramiros-projects/clipsgrooming
+💈 **Clips Grooming** 
+- 🧾 Service Booking & Payment Platform (In Progress)
+– landing page (UI/UX • Responsive Design)
+- A production-oriented booking system designed around real business workflows.
+🔗 Repo || 🌐 Live Demo
+(https://github.com/RodriguezRamiro/clipsgrooming) ||
+(https://vercel.com/rodriguezramiros-projects/clipsgrooming)
 
 Focus areas:
 - Reservation lifecycle (reserved → paid)
@@ -29,14 +30,14 @@ Focus areas:
 - Payment integration (Stripe-ready architecture)
 - Persistence across refreshes & redirects
 - Extensible design for admin tools and scheduling
-- This project represents my current focus on business systems and scalable           architecture.
+- This project represents my current focus on business systems and scalable architecture.
   
 🛒 **ecommerce_app**
 - Full-Stack eCommerce Application
 - Product browsing, cart management, and checkout flow
 - API-driven backend with database persistence
 - Frontend-backend separation with clean data flow
-🔗 Repo | 🌐 Live Demo
+🔗 Repo || 🌐 Live Demo
 (https://github.com/RodriguezRamiro/ecommerce_app)
 (https://ecommerce-app-seven-lilac.vercel.app/)
 
@@ -45,22 +46,22 @@ Focus areas:
 - Real-time gameplay logic
 - Modular React components
 - Foundation for multiplayer and backend integration
-🔗 Repo | 🌐 Live Demo
-(https://github.com/RodriguezRamiro/fullstack_blackjack)**
-https://fullstack-blackjack.vercel.app/
+🔗 Repo || 🌐 Live Demo
+(https://github.com/RodriguezRamiro/fullstack_blackjack)
+(https://fullstack-blackjack.vercel.app/)
 
 ### 🧪 Additional Projects
 
 🧪 **apitester**
 – API request testing tool
-🔗 Repo | 🌐 Live Demo
-(https://github.com/RodriguezRamiro/apitester) – API request testing tool
-Live demo: (https://apitester-fawn.vercel.app/)
+🔗 Repo || 🌐 Live Demo
+(https://github.com/RodriguezRamiro/apitester) ||
+(https://apitester-fawn.vercel.app/)
 
 🌦 **weatherapp**
 - Real-time weather dashboard
-🔗 Repo | 🌐 Live Demo
-(https://github.com/rodriguezramiro/weatherapp)** – Real-time weather dashboard
+🔗 Repo || 🌐 Live Demo
+(https://github.com/rodriguezramiro/weatherapp) ||
 (https://weatherapp-ashy-five.vercel.app/)
 
 🎵 **playlist-app**
