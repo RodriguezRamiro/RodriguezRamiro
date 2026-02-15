@@ -1,59 +1,85 @@
-# 👋 Hi, I'm Ramiro Rodriguez
-Full-Stack Developer specializing in React, Flask, and real-time applications.
+# 👋 Hi, I’m Ramiro Rodriguez
 
-I build clean, efficient, and user-friendly web applications with a strong focus on frontend experience and backend reliability.
+Junior Full-Stack Developer
+Business-trained developer building production-oriented web applications.
 
-### 🧠 What I'm working with
-- JavaScript (ES6+)
-- React
-- Node.js / Express
-- HTML / CSS
-- APIs / JSON
-- PostgreSQL / SQLAlchemy
-- Python / Flask
+I specialize in React, Node.js, and Python/Flask, with a strong focus on business workflows, system reliability, and clean user experience. My work emphasizes real-world constraints, including booking logic, payments, backend authority, and scalable architecture.
 
-### 🚀 Featured Projects
+### 🧠 Tech Stack
 
-- 🛒 **[ecommerce_app]
-- (https://github.com/RodriguezRamiro/ecommerce_app)** – Full stack eCommerce           application
-- Live demo: (https://ecommerce-app-seven-lilac.vercel.app/)
+- Languages: JavaScript (ES6+), Python, SQL
+- Frontend: React, HTML, CSS
+- Backend: Node.js, Express, Flask
+- Databases: PostgreSQL, SQLAlchemy
+- APIs: REST, JSON
+- Tools: Git, GitHub, Vercel
 
--  💈 **Clips Grooming** – Barber shop landing page (UI/UX • Responsive Design)
--  (https://github.com/RodriguezRamiro/clipsgrooming) Small Business Page
--  Live demo: https://vercel.com/rodriguezramiros-projects/clipsgrooming
+### 🚀 Featured Systems & Projects
 
-- ♠️ **[fullstack_blackjack]
-- (https://github.com/RodriguezRamiro/fullstack_blackjack)** – Casino-style             Blackjack game in React
-- Live demo: https://fullstack-blackjack.vercel.app/
+💈 **Clips Grooming** – Barber shop landing page (UI/UX • Responsive Design)
+-  🧾 Service Booking & Payment Platform (In Progress)
+      A production-oriented booking system designed around real business                workflows.
+🔗 Repo | 🌐 Live Demo
+(https://github.com/RodriguezRamiro/clipsgrooming) Small Business Page
+Live demo: https://vercel.com/rodriguezramiros-projects/clipsgrooming
 
-- 🧪 **[apitester]
-- (https://github.com/RodriguezRamiro/apitester)** – API request testing tool
-- Live demo: (https://apitester-fawn.vercel.app/)
+Focus areas:
+- Reservation lifecycle (reserved → paid)
+- Backend authority & conflict prevention
+- Payment integration (Stripe-ready architecture)
+- Persistence across refreshes & redirects
+- Extensible design for admin tools and scheduling
+- This project represents my current focus on business systems and scalable           architecture.
+  
+🛒 **ecommerce_app**
+- Full-Stack eCommerce Application
+- Product browsing, cart management, and checkout flow
+- API-driven backend with database persistence
+- Frontend-backend separation with clean data flow
+🔗 Repo | 🌐 Live Demo
+(https://github.com/RodriguezRamiro/ecommerce_app)
+(https://ecommerce-app-seven-lilac.vercel.app/)
 
-- 🌦 **[weatherapp]
-- (https://github.com/rodriguezramiro/weatherapp)** – Real-time weather dashboard
-- Live demo: (https://weatherapp-ashy-five.vercel.app/)
+♠️ **fullstack_blackjack**
+- Casino-Style Blackjack Game (In Progress)
+- Real-time gameplay logic
+- Modular React components
+- Foundation for multiplayer and backend integration
+🔗 Repo | 🌐 Live Demo
+(https://github.com/RodriguezRamiro/fullstack_blackjack)**
+https://fullstack-blackjack.vercel.app/
 
-- 🎵 **[playlist-app]
-- (https://github.com/RodriguezRamiro/playlist-app)** – Music data & playlist app
+### 🧪 Additional Projects
 
+🧪 **apitester**
+– API request testing tool
+🔗 Repo | 🌐 Live Demo
+(https://github.com/RodriguezRamiro/apitester) – API request testing tool
+Live demo: (https://apitester-fawn.vercel.app/)
 
-### 🌍 My Website
-🔗 https://rodriguezcodesolutions.tech
+🌦 **weatherapp**
+- Real-time weather dashboard
+🔗 Repo | 🌐 Live Demo
+(https://github.com/rodriguezramiro/weatherapp)** – Real-time weather dashboard
+(https://weatherapp-ashy-five.vercel.app/)
 
-### 🔗 LinkedIn
-🔗 https://linkedin.com/in/ramiro-rodriguez-3a287a328
+🎵 **playlist-app**
+- Music data and playlist management app
+🔗 Repo
+(https://github.com/RodriguezRamiro/playlist-app)
 
-### 📸 Instagram
-🔗 https://www.instagram.com/software.map
+### 🌍 Links
 
+🌐 Portfolio: https://rodriguezcodesolutions.tech
+💼 LinkedIn: https://linkedin.com/in/ramiro-rodriguez-3a287a328
+📸 Instagram: https://www.instagram.com/software.map
 
-### 💡 What I'm focused on now
-- Sharpening advanced JavaScript logic skills
-- Improving UI/UX design
-- Strengthening backend architecture
+### Current Focus
+- Strengthening advanced JavaScript logic
+- Improve UI/UX polish
+- Designing backend systems that align with business needs
+- building production-ready, scalable applications
 
-If you're looking to collaborate or need a developer, please don't hesitate to reach out!
+If you are interested in collaboration or need a developer who understands both business and engineering, please don't hesitate to reach out.
 
-Built by Ramiro Rodriguez © 2026
-RodriguezTech Studios
+© 2026 Ramiro Rodriguez – RodriguezTech Studios
