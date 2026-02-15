@@ -38,7 +38,7 @@ Focus areas:
 - API-driven backend with database persistence
 - Frontend-backend separation with clean data flow
 🔗 Repo || 🌐 Live Demo
-(https://github.com/RodriguezRamiro/ecommerce_app)
+(https://github.com/RodriguezRamiro/ecommerce_app) ||
 (https://ecommerce-app-seven-lilac.vercel.app/)
 
 ♠️ **fullstack_blackjack**
@@ -47,7 +47,7 @@ Focus areas:
 - Modular React components
 - Foundation for multiplayer and backend integration
 🔗 Repo || 🌐 Live Demo
-(https://github.com/RodriguezRamiro/fullstack_blackjack)
+(https://github.com/RodriguezRamiro/fullstack_blackjack) ||
 (https://fullstack-blackjack.vercel.app/)
 
 ### 🧪 Additional Projects
